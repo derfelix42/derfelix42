@@ -13,6 +13,11 @@
 
 ## Check out my [Blog][https://blog.felixviola.de]:
 <!-- BLOG-POST-LIST:START -->
+- [Vue.JS 3 is out – Here are some new Features](https://blog.felixviola.de/vue-js-3-is-out-here-are-some-new-features/)
+- [Unzip all zip-files in multiple Subdirectories](https://blog.felixviola.de/unzip-all-zip-files-in-multiple-subdirectories/)
+- [Use ‘PM2’ for auto starting your NodeJS Apps](https://blog.felixviola.de/use-pm2-for-auto-starting-your-nodejs-apps/)
+- [Measure your Instagram User Engagement](https://blog.felixviola.de/measure-your-instagram-user-engagement/)
+- [Dynamic Array/Buffers in C using realloc()](https://blog.felixviola.de/dynamic-array-buffers-in-c/)
 <!-- BLOG-POST-LIST:END -->
 
 ## My Github Stats
