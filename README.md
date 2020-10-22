@@ -15,7 +15,7 @@
 
 ## Languages and Tools:
 
-<img align="left" alt="Vue 3" width="26px" src="https://vuejs.org/images/logo.png" />]
+<img align="left" alt="Vue 3" width="26px" src="https://vuejs.org/images/logo.png" />
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 <img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
 <img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
@@ -44,6 +44,13 @@
 - [Measure your Instagram User Engagement](https://blog.felixviola.de/measure-your-instagram-user-engagement/)
 - [Dynamic Array/Buffers in C using realloc()](https://blog.felixviola.de/dynamic-array-buffers-in-c/)
 <!-- BLOG-POST-LIST:END -->
+
+<details>
+  <summary>:zap: My Github Stats</summary>
+
+  <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=derfelix42" />
+
+</details>
 
 ## My Github Stats
 [![](https://github-readme-stats.vercel.app/api?username=derfelix42)](https://github.com/anuraghazra/github-readme-stats)
