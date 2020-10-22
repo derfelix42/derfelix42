@@ -4,14 +4,13 @@
 - 📖 Working on my Bachelor of Science in Computer Science
 - 💬 Open for collaborations
 - 🔭 My goal is to contribute more to Open Source Projects
-- ⚡ Fun fact: I play the piano
 
 ## My Setup
 - 🖥️ MainPC: Ryzen 1800X, 64GB RAM, GTX 1080, 6 Monitors (last one ist the best 🤤)
 - 🗄️ Storage Server: 4-Core CPU, 16GB RAM, 500GB SDD, 22TB HDD
-- 🗄️ Newest Addition: HP Proliant DL360 G7 with 2x 6x2.4GHz, 48GB RAM, 2x 500GB SDD, 2x 300GB HDD
+- ⚡ Newest Addition: HP Proliant DL360 G7 with 2x 6x2.4GHz, 48GB RAM, 2x 500GB SDD, 2x 300GB HDD
 
-## Check out my [Blog][https://blog.felixviola.de]:
+## Check out my [Blog](https://blog.felixviola.de):
 <!-- BLOG-POST-LIST:START -->
 - [Vue.JS 3 is out – Here are some new Features](https://blog.felixviola.de/vue-js-3-is-out-here-are-some-new-features/)
 - [Unzip all zip-files in multiple Subdirectories](https://blog.felixviola.de/unzip-all-zip-files-in-multiple-subdirectories/)
@@ -21,8 +20,6 @@
 <!-- BLOG-POST-LIST:END -->
 
 ## My Github Stats
-Working on it to get better :)
-<br/>
 [![](https://github-readme-stats.vercel.app/api?username=derfelix42)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
