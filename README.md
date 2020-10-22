@@ -10,10 +10,7 @@
 [<img align="left" alt="felixviola.de" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="DER FELIX | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
 [<img align="left" alt="der_felix42 | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-
-<br />
-<hr>
-<br />
+<br>
 
 ## Languages and Tools:
 
@@ -28,20 +25,15 @@
 <img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
 <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
-
-<br />
-<hr>
-<br />
+<br>
 
 
 ## My Setup
 - 🖥️ MainPC: Ryzen 1800X, 64GB RAM, GTX 1080, 6 Monitors (last one is the best 🤤)
 - 🗄️ Storage Server: 4-Core CPU, 16GB RAM, 500GB SDD, 22TB HDD
 - ⚡ Newest Addition: HP Proliant DL360 G7 with 2x 6x2.4GHz, 48GB RAM, 2x 500GB SDD, 2x 300GB HDD
+<br>
 
-<br />
-<hr>
-<br />
 
 ## Check out my [Blog](https://blog.felixviola.de):
 <!-- BLOG-POST-LIST:START -->
@@ -52,9 +44,7 @@
 - [Dynamic Array/Buffers in C using realloc()](https://blog.felixviola.de/dynamic-array-buffers-in-c/)
 <!-- BLOG-POST-LIST:END -->
 
-<br />
 <hr>
-<br />
 
 <details>
   <summary>:zap: My Github Stats</summary>
