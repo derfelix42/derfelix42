@@ -68,6 +68,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[website]: https://felixviola.de/
+[website]: https//felixviola.de/
 [youtube]: https://youtube.com/channel/UCfOS9rxaiqDlWeCIfpHOmag
 [instagram]: https://instagram.com/der_felix42
