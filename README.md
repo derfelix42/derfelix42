@@ -1,4 +1,4 @@
-### Hi there, I'm der Felix (no.42) 👋
+### Hi there, I'm der Felix 👋
 
 ## I'm a Student of Computer Science and ...
 - 📖 Working on my Masters Degree of Science in Computer Science
