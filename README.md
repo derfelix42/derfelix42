@@ -1,9 +1,10 @@
 ### Hi there, I'm der Felix 👋
 
 ## I'm a Student of Computer Science and ...
-- 📖 Working on my Masters Degree of Science in Computer Science
+- 📖 Working on my Masters Degree in Computer Science
 - 💬 Open for collaborations
 
+<!--
 ### Connect with me:
 
 [<img align="left" alt="felixviola.de" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
@@ -48,6 +49,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[website]: https//felixviola.de/
-[youtube]: https://youtube.com/channel/UCfOS9rxaiqDlWeCIfpHOmag
-[instagram]: https://instagram.com/der_felix42
+[Dev Website]: https://derfelix.dev/
+[Personal Website]: https//felixviola.de/
+<!--[youtube]: https://youtube.com/channel/UCfOS9rxaiqDlWeCIfpHOmag
+[instagram]: https://instagram.com/der_felix42 -->
