@@ -4,6 +4,9 @@
 - 📖 Working on my Masters Degree in Computer Science
 - 💬 Open for collaborations
 
+[Dev Website](https://derfelix.dev/)
+[Personal Website](https//felixviola.de/)
+
 <!--
 ### Connect with me:
 
@@ -49,7 +52,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[Dev Website]: https://derfelix.dev/
-[Personal Website]: https//felixviola.de/
 <!--[youtube]: https://youtube.com/channel/UCfOS9rxaiqDlWeCIfpHOmag
 [instagram]: https://instagram.com/der_felix42 -->
